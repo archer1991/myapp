@@ -3,6 +3,10 @@
 	<name>My</name>
 	<comment></comment>
 	<projects>
+		<project>gesture-imageview</project>
+		<project>imageloadlibrary</project>
+		<project>ViewPagerDemo</project>
+		<project>XListView</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
